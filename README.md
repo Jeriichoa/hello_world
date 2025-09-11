@@ -1,2 +1,2 @@
-# hello_world
+# first README
 repo for class cds351
